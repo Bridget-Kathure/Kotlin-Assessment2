@@ -44,7 +44,7 @@ var radius = 12
 
 fun isPalindrome(word:String):Boolean{
    if (word =="palindrome"){
-       println(true) }
+       return (true) }
     else{
-       println(false)}
+       return (false)}
 }
